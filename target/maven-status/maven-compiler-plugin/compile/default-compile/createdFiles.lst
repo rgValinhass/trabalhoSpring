@@ -1,0 +1,5 @@
+com\setorPessoal\services\FuncionarioService.class
+com\setorPessoal\repository\FuncionarioRepository.class
+com\setorPessoal\SetorPessoalApplication.class
+com\setorPessoal\controller\FuncionarioController.class
+com\setorPessoal\model\Funcionario.class
