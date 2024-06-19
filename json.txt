@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "nome": "Raphael",
+    "nascimento": "2004-04-11",
+    "salario": 1200
+}
+{
+    "id": 0,
+    "nome": "Gabriel",
+    "nascimento": "2002-11-11",
+    "salario": 1900
+}
+{
+    "id": 0,
+    "nome": "Del Moro",
+    "nascimento": "2000-03-01",
+    "salario": 1500
+}
